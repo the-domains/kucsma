@@ -1,0 +1,28 @@
+name: Kucsma
+favicon: null
+layout_spectrum: 0.020341893890872598
+typography_spectrum: 0.9137471113353968
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7750288934912533
+  lightness: 0.9415733069181442
+  saturation: 0.5190693819895387
+  rhythmicContrast: 0.8788839995395392
+purpose: []
