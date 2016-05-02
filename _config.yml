@@ -1,7 +1,7 @@
 name: Kucsma
 favicon: null
-layout_spectrum: 0.020341893890872598
-typography_spectrum: 0.9137471113353968
+layout_spectrum: 1
+typography_spectrum: 0.4151
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#281204'
     - '#ea4330'
   brandStrength: 0
-  lightness: 0.5
+  lightness: 0.6875
   saturation: 1
   rhythmicContrast: 0.5
 purpose: []
